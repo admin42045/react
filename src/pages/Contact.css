@@ -1,0 +1,11 @@
+.contact {
+    min-height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+}
+.contact h1 {
+    margin: 2rem auto;
+}
